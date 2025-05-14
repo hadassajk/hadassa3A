@@ -1,0 +1,101 @@
+ <!DOCTYPE html>
+ </html lang="pt-br">
+ <head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="windth=device-width, initial-scale=1.0">
+    <title>Página da Viic </title>
+    <link rel="stylesheet" href="style.css">
+ </head>
+ <body>
+    <header>
+        <img src="perfil-Hadassa.jpeg" alt="Foto de HADASSA">
+        <h1>Hadassa Victória</h1>
+        <p> Bem vindo a minha página pessoal.</p>
+    </header>
+
+    <section>
+        <h2>Bio</h2>
+        <p>
+            Sou Hadassa aluna do Sesi de Paulista,estudante do Senai Desenvolvimento de Sistemas /PE.<br>
+            Amadora dos animais,praia...<br>
+            Familía e amigos .<br>
+            MED/veterinária <br>
+            
+            <section>
+            </section>
+
+            <section>
+                <h2>Preferencias</h2>
+                <ul>
+                    <li> Cor favorita: azul </li>
+                    <li> Comida favorita : lasanha/almoço</li>
+                    <li> Filme favorito : Para todos os garotos que ja amei </li>
+                </ul>
+            </section>
+
+            <h2> Bandas Preferidas/ cantores: 
+                BTS.<br>
+                Stray Kids.<br>
+                Beyoncé.<br>
+                Rihanna.<br>
+            </h2>
+        </p>
+    </section>
+    <style>
+        body {
+            front-family: Arial, sans-serif;
+            background-color: aquamarine;
+            color: black;
+            margin:0;
+            padding:0;
+            text-align: center;
+        }
+        .container {
+            width: 80%;
+            max-width : 800px;
+            margin: 0 auto;
+            padding :20px;
+            background-color: aliceblue;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px cornflowerblue;
+        }
+
+        h1 {
+            front-size: 2.5em;
+            color :aliceblue
+            margin-bottom: 10px
+        }
+
+        h2 {
+            front-size: 1.5em;
+            color:aquamarine
+            margin-bottom:20px;
+
+        }
+
+        p {
+            front-size: 1.1em;
+            line-height: 1.6;
+            margin: 10px 0 ;
+
+        }
+        .highligt {
+            front-weight : bold;
+            color:beige
+
+        }
+
+        .email {
+            front-size: 1.1em;
+            color:beige
+
+        }
+
+        .footer a {
+            color:aquamarine
+            text-decoration: none;
+        }
+    </style>
+ </head>
+</body.>
